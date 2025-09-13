@@ -53,10 +53,10 @@ cd <your-project-folder>
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Welcome Screenshot](./public/Welcome_Screen.jpg)
+![Welcome Screenshot](https://raw.githubusercontent.com/SamarthNaiik/todo-react-app/main/public/Welcome_Screen.jpg)
 
 ### ✅ Todo List
-![Home Screen](./public/Home_Screen.jpg)
-![Add Task](./public/Add_Task.jpg)
-![Edit Task](./public/Edit_Task.jpg)
-![Complete Task](./public/Complete_Task.jpg)
+![Home Screen](https://raw.githubusercontent.com/SamarthNaiik/todo-react-app/main/public/Home_Screen.jpg)  
+![Add Task](https://raw.githubusercontent.com/SamarthNaiik/todo-react-app/main/public/Add_Task.jpg)  
+![Edit Task](https://raw.githubusercontent.com/SamarthNaiik/todo-react-app/main/public/Edit_Task.jpg)  
+![Complete Task](https://raw.githubusercontent.com/SamarthNaiik/todo-react-app/main/public/Complete_Task.jpg)
