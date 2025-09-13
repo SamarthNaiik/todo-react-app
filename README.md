@@ -53,11 +53,10 @@ cd <your-project-folder>
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Welcom Screenshot](./public/Welcome Screen.jpg)
+![Welcome Screenshot](./public/welcome_screen.jpg)
 
 ### ✅ Todo List
-![Home Screen](./public/Home Screen.jpg)
-![Add Task](./public/Add Task.jpg)
-![Edit Task](./public/Edit Task.jpg)
-![Complete Task](./public/Complete Task.png)
-
+![Home Screen](./public/home_screen.jpg)
+![Add Task](./public/add_task.jpg)
+![Edit Task](./public/edit_task.jpg)
+![Complete Task](./public/complete_task.jpg)
