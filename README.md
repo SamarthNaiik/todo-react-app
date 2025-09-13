@@ -46,4 +46,11 @@ Supported actions:
 Clone the repository:
 ```bash
 git clone https://github.com/SamarthNaiik/todo-react-app
-cd <your-project-folder>
+cd todo-react-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+
