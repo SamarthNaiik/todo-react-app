@@ -45,5 +45,5 @@ Supported actions:
 
 Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SamarthNaiik/todo-react-app
 cd <your-project-folder>
