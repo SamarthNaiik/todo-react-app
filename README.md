@@ -47,3 +47,17 @@ Clone the repository:
 ```bash
 git clone <your-repo-url>
 cd <your-project-folder>
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Login Screen
+![Welcom Screenshot](./public/Welcome Screen.jpg)
+
+### ✅ Todo List
+![Home Screen](./public/Home Screen.jpg)
+![Add Task](./public/Add Task.jpg)
+![Edit Task](./public/Edit Task.jpg)
+![Complete Task](./public/Complete Task.png)
+
